@@ -1,0 +1,13 @@
+name: musokjy_app_v2
+description: Application de gestion d'une mutuelle
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
